@@ -1,0 +1,6 @@
+(通知邮件，请勿回复，有问题请发信至天津HPC 邮箱P_tj_hpc@genomics.cn）
+
+附件是每天 Hiseq2500-D177 数据上传情况 以时间为准祝好！
+
+同步路径： /WORK/home/bgi_solexa/hiseq-2500/hiseq-D177
+硬盘挂载： /mnt/TJ_D177/TJ_D177
