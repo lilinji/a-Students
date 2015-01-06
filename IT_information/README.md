@@ -1,9 +1,10 @@
 # Awesome Sysadmin
 
-IT 学习资料
+#IT 学习资料
+
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
-* [Awesome Sysadmin](#awesome-sysadmin)
+ * [Awesome Sysadmin](#awesome-sysadmin)
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
